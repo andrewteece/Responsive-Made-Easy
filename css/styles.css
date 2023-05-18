@@ -43,6 +43,7 @@ p {
 img {
     display: block;
     width: 100%;
+    border-radius: 1rem;
 }
 
 /* GLOBAL STYLES */
